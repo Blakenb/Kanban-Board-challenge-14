@@ -32,17 +32,20 @@ Krazy Kanban Board is a full-stack Kanban board application that allows users to
 ## Technologies Used
 
 ### Frontend:
+
 - React
 - React Router DOM
 - Vite (for development and build)
 
 ### Backend:
+
 - Express.js
 - Sequelize (ORM for PostgreSQL)
 - JSON Web Tokens (JWT) for authentication
 - dotenv for environment variable management
 
 ### Database:
+
 - PostgreSQL
 
 ---
@@ -53,6 +56,6 @@ Krazy Kanban Board is a full-stack Kanban board application that allows users to
 
 If you have any questions or feedback about this project, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-github-username](https://github.com/your-github-username)
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+- **Email**: [Blakenb87@gmail.com](mailto:Blakenb87@gmail.com)
+- **GitHub**: [Blakenb](https://github.com/Blakenb)
+- **LinkedIn**: [Blake Brittain](https://www.linkedin.com/in/blake-brittain-15329934b/)
